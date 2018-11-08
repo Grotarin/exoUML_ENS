@@ -8,7 +8,7 @@ class Etage:
 	def __init__(Etablissement, self):
         Etablissement.__init__(self)
 		self.numero_etage = 0
-		self.surface = 0
+		self.surface = 0.0
 		self.affectation_principale = None	
 		
 class Salle:
@@ -24,7 +24,7 @@ class Ordinateur:
 		self.numero = 0
 		self.microprocesseur = None
 		self.memoire_vive = 0
-		self.capacite_disque = 0
+		self.capacite_disque = 0.0
 		self.date_achat = 01/01/1970
 		
 class Carte_reseau :
