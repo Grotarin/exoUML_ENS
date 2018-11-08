@@ -26,6 +26,9 @@ class Ordinateur:
 		self.memoire_vive = 0
 		self.capacite_disque = 0.0
 		self.date_achat = 01/01/1970
+      
+      def branchement(Salle):
+         self.salle = salle.numero
 		
 class Carte_reseau :
 	def __init__(Ordinateur, self):
