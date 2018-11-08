@@ -1,3 +1,4 @@
+# -*-coding:UTF-8 -*
 class Etage:
 	def __init__(Etablissement, self, numero_etage, surface, affectation):
 		"""Etablissement.__init__(self)"""

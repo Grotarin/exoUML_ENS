@@ -1,3 +1,4 @@
+# -*-coding:UTF-8 -*
 class Ordinateur:
 	def __init__(self, numero, microprocesseur, memoire_vive, capacite_disque, date_achat, Carte_reseau):
 		self.numero = 0

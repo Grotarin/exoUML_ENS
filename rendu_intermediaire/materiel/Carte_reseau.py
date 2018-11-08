@@ -1,3 +1,4 @@
+# -*-coding:UTF-8 -*
 class Carte_reseau :
 	def __init__(Ordinateur, self, type_carte, adresse_ip, adresse_mac):
 		self.type_carte = None
